@@ -25,7 +25,7 @@ Ask me anything at <a href="mailto:paul@codespiresolutions.digital"><b>paul@code
 
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/paul-bodach-4b745b294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/paulbodach" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/com_css_apps" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
