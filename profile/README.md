@@ -8,7 +8,7 @@ Welcome to my Github Profile <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything at <a href="mailto:paul@codespiresolutions.digital"><b>paul@codespiresolutions.digital</b></a>.<br>
 
-<i>Happy Coding!</i> 😊
+<i>Happy Coding!</i>
 
 </div>
 
