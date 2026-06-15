@@ -18,6 +18,7 @@ Ask me anything at <a href="mailto:paul@codespiresolutions.digital"><b>paul@code
 <i>My Current Repositories:</i>
 - <a href="https://github.com/CodeSpire-Solutions/SMBSleepMounter">SMBSleepMounter</a>
 - <a href="https://github.com/CodeSpire-Solutions/Password-Manager-Materiel-3-Expressive">Passwords | Material 3 Expressive Password Manager</a>
+- <a href="https://github.com/Kartoffelspalt/NodeQL">NodeQL</a>
 
 ---
 
