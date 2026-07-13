@@ -16,8 +16,8 @@ Ask me anything at <a href="mailto:paul@codespiresolutions.digital"><b>paul@code
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 <i>My Current Repositories:</i>
-- <a href="https://github.com/CodeSpire-Solutions/Password-Manager-Materiel-3-Expressive">Passwords | Material 3 Expressive Password Manager</a>
 - <a href="https://github.com/Kartoffelspalt/NodeQL">NodeQL</a>
+- <a href="https://github.com/CodeSpire-Solutions/Password-Manager-Materiel-3-Expressive">Passwords | Material 3 Expressive Password Manager</a>
 
 ---
 
